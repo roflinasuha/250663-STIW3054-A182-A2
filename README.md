@@ -73,7 +73,11 @@ https://youtu.be/-_BCkk4Cd4I
 6.	References
 
 https://www.tutorialspoint.com/javaexamples/java_itext.htm
+
 https://www.mkyong.com/java/pdfbox-how-to-read-pdf-file-in-java/
+
 https://www.tutorialspoint.com/java/lang/thread_activecount.htm
+
 https://stackoverflow.com/questions/10830583/how-to-read-pdf-file-in-java
+
 https://www.javainterviewpoint.com/pdfbox-create-read-pdf-java/
